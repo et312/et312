@@ -1,14 +1,14 @@
 Hi 👋 My name is Ernest Tang
 ============================
 
-Hardware/Firmware Engineering
+Hardware Engineering
 -----------------------------
 
-I am a Computer Engineering student at the University of Waterloo, currently seeking a 4-month co-op starting January 2026. With hands-on experience in hardware and firmware engineering, I’ve contributed to various projects in industries ranging from mixed signal IC design to developing performance-critical firmware.
+I am a Computer Engineering student at the University of Waterloo, currently seeking a 4-month co-op starting September 2026. With hands-on experience in hardware and firmware engineering, I’ve contributed to various projects in industries ranging from mixed signal IC design to developing performance-critical firmware.
 
 * 🌍  I'm based in Waterloo, ON, Canada
 * ✉️  You can contact me at [e42tang@uwaterloo.ca](mailto:e42tang@uwaterloo.ca)
-* 🚀  I'm currently working at [Microchip](https://www.microchip.com/en-us/solutions/data-centers-and-computing)
+* 🚀  I just completed an internship working at [Arista](https://www.arista.com/en/)
 
 ### Skills
 
